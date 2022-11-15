@@ -5,3 +5,5 @@
 
 This app is intentionally very simple and only has
 the task of temporarily storing the data.
+
+Requires a `.env` file to configure custom builds
