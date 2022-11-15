@@ -9,4 +9,5 @@ the task of temporarily storing the data.
 Requires a `.env` file to configure custom builds
 
 
-[Download the .apk file if you would like](https://expo.dev/artifacts/eas/vYfv4nwKYGnj9QscgdF6u3.apk)
+[Download the .apk file if you would like to install it on android device](https://expo.dev/artifacts/eas/vYfv4nwKYGnj9QscgdF6u3.apk)
+
